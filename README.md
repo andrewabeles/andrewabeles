@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andrewabeles
 - 👀 I’m interested in making data useful for others.
-- 🌱 I’m currently studying applied data science.
-- 💞️ I’m looking to collaborate on interactive dashboards, predictive model APIs, or any data project involving Python, R, or SQL.
+- 🌱 I’m currently working on my applied data science masters thesis.
+- 💞️ I’m looking to collaborate on data science projects with a positive social impact. 
 - 📫 How to reach me: aabeles5@gmail.com or https://www.linkedin.com/in/aabeles/
 
 <!---
