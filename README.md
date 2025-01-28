@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrewabeles
 - 👀 I’m interested in making data useful for others.
-- 🌱 I’m currently working on deploying machine learning models to API endpoints. 
+- 🌱 I’m currently building web apps to faciliate common data science tasks. 
 - 💞️ I’m looking to collaborate on data science projects with a positive social impact. 
 - 📫 How to reach me: aabeles5@gmail.com or https://www.linkedin.com/in/aabeles/
 
